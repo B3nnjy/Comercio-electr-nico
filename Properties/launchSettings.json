@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "t7_2021630460_vs": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7018",
+      "launchBrowser": false
+    }
+  }
+}
